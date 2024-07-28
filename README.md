@@ -1,1 +1,1 @@
-# RetailSales_EDA
+# Exploratory Data Analysis (EDA) on Retail Sales Data
